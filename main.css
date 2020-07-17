@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+h1{
+    font-family: 'Righteous', cursive;
+    font-size: 90px;
+    text-align: center;
+    color: #011627;
+}
+
+* {
+    background-color:#B91372;
+}
+/* 
+    #FF0022;
+
+    #41EAD4; */
+
+    
+
+
+h2{
+    font-family: 'Concert One', cursive;
+    color: #FDFFFC;
+    text-align: center;
+    text-emphasis: bold;
+}
+
+h3 {
+    font-family: 'Concert One', cursive;
+    color: #41EAD4;
+    text-align: center;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #41EAD4; 
+    border: 1px solid black;
+    opacity: 0.8;
+}
+
+/* div.transbox p {
+        margin: 3%;
+        font-weight: bold;
+        color: white;
+    } */
+
+a {
+    font-family:'Concert One', cursive ;
+    color: #FF0022;
+    font-size: 30px;
+    text-align: center;
+}
